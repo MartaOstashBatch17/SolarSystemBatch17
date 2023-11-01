@@ -7,5 +7,10 @@ public class main {
         solarSystemBasics.Moon="2";
         solarSystemBasics.Planets="2";
         solarSystemBasics.Stars="10";
+        //feature sun
+        FeatureSun featureSun=new FeatureSun();
+        featureSun.name="panther";
+        featureSun.color="black";
+        featureSun.temp="2345kelvin";
     }
 }
